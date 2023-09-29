@@ -1,0 +1,17 @@
+<biblioteca>
+    <libro>
+        <titulo>Visual C#</titulo>
+        <autor>Fco. Javier Ceballos</autor>
+        <editoriaL>Ra-Ma
+        </editoriaL>
+        <paginas>936</paginas>
+        <precio>52.75</precio>
+    </libro>
+    <libro>
+        <titulo>Programación en C</titulo>
+        <autor>Luis Joyanes Aguilar</autor>
+        <editorial>McGraw-Hill</editorial>
+        <paginas>735</paginas>
+        <precio>45,25</precio>
+    </libro>
+</biblioteca>
